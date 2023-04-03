@@ -1,0 +1,22 @@
+Design details how I implements the blog theme:
+
+I try to make a simple design based on the assignment requirements.
+After reading the requirements I made a rough sketch on the paper and
+according to those design I made one by one page. I didn't use any css
+framework for this project. Used basic html, css, font-awesome for icons
+and flex layout & media queries.
+
+
+Challeges & how I overcome that:
+
+The first issue that I faced is what color scheme should I used.
+I try to google about the css color combination and find various
+combination. I try to pick a simple 2 tone white and green shade
+color for the theme.
+
+The second issue I faced with the responsiveness. Try to search 
+how to align all the layout using flexbox. I used media queries
+and tweaking each div section elements when the design broke at 
+which breakpoints and fix those one by one.
+
+This is how I made my blog project.
